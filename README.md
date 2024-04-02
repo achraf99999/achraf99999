@@ -9,6 +9,8 @@
 
 - 🤝 connect with me here : **https://www.linkedin.com/in/achref-lassoued-84b144250/**
 
+-🌱 I’m currently learning Fine Tuning LLM's 
+
 - 💬 Ask me about **All types of machine learning , RNN , LSTM,CNN**
 
 - 📫 How to reach me **achrflassoued17@gmail.com**
