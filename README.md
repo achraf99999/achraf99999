@@ -9,11 +9,11 @@
 
 - 🤝 connect with me here : **https://www.linkedin.com/in/achref-lassoued-84b144250/**
 
-- 🌱 I’m currently **learning Fine Tuning LLM's**
+- 🌱 I’m currently  **learning optimisation and fine-tuning LLM's**
 
-- 💬 Ask me about **All types of machine learning , RNN , LSTM,CNN**
+- 💬 Ask me about **All types of machine learning algorithme and DL architucture  , RNN , LSTM,CNN ,Transformers **
 
-- 📫 How to reach me **achrflassoued17@gmail.com**
+- 📫 How to reach me **achref.lassoued@essai.ucar.tn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
