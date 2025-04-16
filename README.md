@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=achraf99999" alt="achraf99999" /></a> </p>
 
-- 👯 I’m looking for a end of studies internhsip  .
+- 👯 I'm looking for a  full time position in the data science fields   .
 
 - 🤝 connect with me here : **https://www.linkedin.com/in/achref-lassoued-84b144250/**
 
