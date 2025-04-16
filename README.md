@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **All types of machine learning algorithme and DL architucture  , RNN , LSTM,CNN ,Transformers **
 
-- 📫 How to reach me **achref.lassoued@essai.ucar.tn**
+- 📫 How to reach me **achrflassoued17@gmail.com** or **achref.lassoued@essai.ucar.tn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
