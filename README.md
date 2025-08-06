@@ -9,9 +9,9 @@
 
 - 🤝 connect with me here : **https://www.linkedin.com/in/achref-lassoued-84b144250/**
 
-- 🌱 I’m currently  **learning optimisation and fine-tuning LLM's**
+- 🌱 I’m currently  **learning optimisation and deployment LLMs in real-world scenarios**
 
-- 💬 Ask me about **All types of machine learning algorithme and DL architucture  , RNN , LSTM,CNN ,Transformers **
+- 💬 Ask me about **All types of ML algorithme and DL, Transformers architucture  , RNN , LSTM,CNN ,Multihead-attentions**
 
 - 📫 How to reach me **achrflassoued17@gmail.com** or **achref.lassoued@essai.ucar.tn**
 
